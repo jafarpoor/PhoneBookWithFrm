@@ -1,0 +1,11 @@
+C:\Users\fama\Desktop\PhoneBook\PhoneBooke\BussinesLogicLayer\obj\Debug\BussinesLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\fama\Desktop\PhoneBook\PhoneBooke\BussinesLogicLayer\obj\Debug\BussinesLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\fama\Desktop\PhoneBook\PhoneBooke\BussinesLogicLayer\bin\Debug\BussinesLogicLayer.dll
+C:\Users\fama\Desktop\PhoneBook\PhoneBooke\BussinesLogicLayer\bin\Debug\BussinesLogicLayer.pdb
+C:\Users\fama\Desktop\PhoneBook\PhoneBooke\BussinesLogicLayer\bin\Debug\BussinesObject.dll
+C:\Users\fama\Desktop\PhoneBook\PhoneBooke\BussinesLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\fama\Desktop\PhoneBook\PhoneBooke\BussinesLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\fama\Desktop\PhoneBook\PhoneBooke\BussinesLogicLayer\bin\Debug\BussinesObject.pdb
+C:\Users\fama\Desktop\PhoneBook\PhoneBooke\BussinesLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\fama\Desktop\PhoneBook\PhoneBooke\BussinesLogicLayer\obj\Debug\BussinesLogicLayer.dll
+C:\Users\fama\Desktop\PhoneBook\PhoneBooke\BussinesLogicLayer\obj\Debug\BussinesLogicLayer.pdb
